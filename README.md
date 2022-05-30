@@ -15,7 +15,7 @@ We filtered the vine data to retrieve all the rows where the total votes count i
 
 •	Nearly 44% of Vine reviews were 5 stars, and 48% of non-Vine reviews were 5 stars.
 
-![Capture](https://user-images.githubusercontent.com/66279829/170938629-d0692ede-a142-4102-8be5-1520e47c344a.PNG)
+![Capture](https://user-images.githubusercontent.com/66279829/170939494-cb682b69-7440-4397-996e-445d8c05b2b4.PNG)
 
 ## Summary
 
