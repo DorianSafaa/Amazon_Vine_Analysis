@@ -19,3 +19,4 @@ We filtered the vine data to retrieve all the rows where the total votes count i
 
 ## Summary
 
+The percentage of the 5 stars reviews for Vine members is 44% and 47% for the non-Vine members. Considering that the percentages are close, we can conclude that there is no bias in the reviews. The majority of the members who gave the product 5 stars were honest in their reviews. Additionally, we can conduct a two-sample t-test to confirm whether the percentages of 5 stars reviews from Vine and non-Vine members are equal. 
